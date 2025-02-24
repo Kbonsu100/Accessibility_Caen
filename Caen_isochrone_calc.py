@@ -1,19 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Feb 13 10:00:19 2025
-
-@author: kbons
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Aug 21 11:29:18 2024
-
-@author: kbons
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Tue Aug 20 16:03:49 2024
 
 @author: kbons
